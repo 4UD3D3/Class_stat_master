@@ -1,0 +1,26 @@
+#salles {
+    max-width: 25em;
+}
+
+#salles details {
+    margin-top: 0.5em;
+}
+#salles summary::marker {
+    color: var(--bleu);
+}
+
+#salles details ul {
+    margin: 0 0 1.5em;
+    padding-left: 1.5em;
+}
+
+#salles details li {
+    margin: 0.5em;
+}
+
+#salles details input[type="button"] {
+    background: none;
+    font: inherit;
+    border: none;
+    cursor: pointer;
+}

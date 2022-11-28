@@ -1,0 +1,490 @@
+[
+    {
+        "bat": "DSEG",
+        "nom": "A 101 V-DSEG (100)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "A 102 V-DSEG (100)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "A 103 V-DSEG (100)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "A 104 V-DSEG (3è etage) (100)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "A 150 V-DSEG (150)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "A 250 V-DSEG (250)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "A 500 V-DSEG (500)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "Hall 1er étage DSEG"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "Hall Rez de chaussée DSEG"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 102 Prj GI"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 103 Prj GI"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 104 Info GI"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 105 Multimedia"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 106 Multimedia"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 107 Info GI"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 201"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 202"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 205"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 301"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 303 Réunion : visio"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "L-ENSIBS- S 401 Conseil : visio"
+    },
+    {
+        "bat": "Autres",
+        "nom": "L-SM-Aucune"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Mail"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Moodle"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Moodle/Teams/Via"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 001 V-DSEG (54)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 202 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 203 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 204 V-DSEG (50)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 205 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 206 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 207 V-DSEG (54)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 208 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 209 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 210 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 211 V-DSEG (60)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 212 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 213 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 214 V-DSEG (32)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 215 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 216 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 301 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 302 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 303 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 305 V-DSEG (50)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 307 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 308 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 309 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 310 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 311 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 312 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 313 V-DSEG (46)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 314 V-DSEG (50)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 315 V-DSEG (30)"
+    },
+    {
+        "bat": "DSEG",
+        "nom": "S 316 V-DSEG (30)"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Salle SUP"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Salle fictive"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Salle non réservée"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Teams"
+    },
+    {
+        "bat": "Autres",
+        "nom": "V-TO-BU-SCD"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-A104 (36)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-A104 (DSEG 3ème étage)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-A106 (38)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-B002 (C4-Pro)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-B003"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-C4"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-D003 (38)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-D005 (14)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-D009 (14)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-D010 (80)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-D105 (40)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-D113 (15)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-TMP-TD"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIBS-TMP-TP"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs - B001 amphi (250)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs - GrandeSalle virtuelle"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs - TMP info"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-A102 TBI (40)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-A103 (40)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-A105-107"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-CyberLab-SAIM-D111"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-D001 (30)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-D101 (30)"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-TMP-TD"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "V-TO-ENSIbs-Virtualb-AIDN-D107 (45)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-A104"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-AMPHI (150)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-B029-SUIOIP"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D070 (40)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D071 (IGREC) (26)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D072 (32)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D073 (IGREC) (18)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D074 (52)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D075 (56)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D076 (62)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D077-VBI (64)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D079-TBI (56)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D170 (21)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D171 (21)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D172 (21)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D173 (21)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D174 (64)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D176 (40)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-D177"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-E081"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-E083"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-E084"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-E182"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-E184"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-E187"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-F092"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-F097"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-F191 (langues) (21)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-F193 (langues) (21)"
+    },
+    {
+        "bat": "YC",
+        "nom": "V-TO-YC-F195 (21)"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Via"
+    },
+    {
+        "bat": "ENSIBS",
+        "nom": "Y-TO-ENSIBS-D106 (38)"
+    },
+    {
+        "bat": "YC",
+        "nom": "YC TP Bio"
+    },
+    {
+        "bat": "YC",
+        "nom": "YC TP Chi"
+    },
+    {
+        "bat": "Autres",
+        "nom": "Zoom"
+    },
+    {
+        "bat": "Autres",
+        "nom": "salle fictive"
+    },
+    {
+        "bat": "Autres",
+        "nom": "à distance"
+    }
+]

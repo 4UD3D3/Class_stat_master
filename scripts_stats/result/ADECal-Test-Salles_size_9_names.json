@@ -1,0 +1,6042 @@
+{
+    "1": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle1"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "2": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "3": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-SalleProjet"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "4": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-SalleProjet"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "5": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-SalleProjet"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "6": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-SalleProjet"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "7": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "8": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "9": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "10": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle3",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle1"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "11": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle1"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "12": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "CCI Grandes Salles",
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "13": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "14": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "15": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "16": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "17": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "18": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "19": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "20": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle2"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "21": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "22": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "23": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "24": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "25": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "26": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "27": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "28": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "29": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "30": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "31": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "32": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "33": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "34": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "35": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "36": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle6",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "37": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle3"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle2",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "38": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle3",
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "39": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle1",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle3"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "40": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle3",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-SalleProjet"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle3"
+            ],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "41": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle3"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle3"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle3"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "42": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle1"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-SalleProjet"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "43": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "44": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "45": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle3",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-SalleProjet"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle3",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "46": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-SalleProjet"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle3"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle5",
+                "V-CCI-Salle3"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "47": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle3"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2",
+                "V-CCI-Salle1",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ]
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "48": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle1"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle1"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle4",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-SalleProjet"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle5"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle4"
+            ]
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "49": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle2",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle4"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle5"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle2",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-Salle6"
+            ]
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": [
+                "V-CCI-GrandeSalle"
+            ]
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle4"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "50": {
+        "01-lundi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle5"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle4"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle4"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [
+                "V-CCI-Salle5",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-SalleProjet"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6",
+                "V-CCI-Salle5",
+                "V-CCI-SalleProjet"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [
+                "V-CCI-Salle2"
+            ],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle6"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle1"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C2_9h45-11h15": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C3_11h30-13h": [
+                "V-CCI-GrandeSalle",
+                "V-CCI-Salle5",
+                "V-CCI-Salle4",
+                "V-CCI-Salle6"
+            ],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [
+                "V-CCI-Salle1",
+                "V-CCI-Salle2"
+            ],
+            "C6_16h30-18h00": [
+                "V-CCI-Salle4",
+                "V-CCI-Salle2"
+            ],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "51": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "52": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "53": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "54": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "55": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    },
+    "56": {
+        "01-lundi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "02-mardi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "03-mercredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "04-jeudi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "05-vendredi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "06-samedi": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        },
+        "07-dimanche": {
+            "C1_8h-9h30": [],
+            "C2_9h45-11h15": [],
+            "C3_11h30-13h": [],
+            "C4_13h00-14h30": [],
+            "C5_14h45-16h15": [],
+            "C6_16h30-18h00": [],
+            "C7_18h15-19h45": []
+        }
+    }
+}

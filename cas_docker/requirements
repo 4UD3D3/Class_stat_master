@@ -1,0 +1,9 @@
+cas-client
+datetime
+fastapi
+itsdangerous
+python-cas
+uvicorn
+flask
+flask-cors
+pyjwt

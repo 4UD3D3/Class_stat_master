@@ -1,0 +1,38 @@
+.portail {
+    display: flex;
+    flex-direction: column;
+}
+
+.portail #item-portail {
+    padding-top: 3.5em;
+    height: 100%;
+    flex-grow: 1;
+}
+
+.portail .connexion {
+    display: flex;
+    justify-content: center;
+}
+
+.portail #item-footer {
+    background-color: var(--anthr);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+.portail .illustration {
+    display: flex;
+    justify-content: center;
+}
+.portail .illustration img {
+    height: 30em;
+}
+
+.portail img#logo {
+    height: 15em;
+}

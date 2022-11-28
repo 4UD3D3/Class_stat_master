@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+/* import de la police d'écriture Roboto de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700;900&display=swap');
+
+:root {
+    --bleu: #1ABC9C;
+    --blanc: #fbfdfd;
+    --clair: #e9eef5;
+    --anthr: #1e2a38;
+    --couleurItem: #1e2a38;
+    --gris-moyen: #44505f;
+
+    --shadow1em: 0 0 1em 0 #00000015;
+    --shadow1-6em: 0 0 1.6em 0 #00000015;
+    --shadow2em: 0 0 2em 0 #00000015;
+
+    --cont: "";
+}
+
+body, #root {
+    background-color: var(--blanc);
+    font-family: 'Roboto', BlinkMacSystemFont, 'Helvetica Neue', 'Oxygen', 'Segoe UI', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Ubuntu', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* ARTICLE */
+
+section {
+    flex: 1;
+}
+
+section#haut {
+    padding-top: 6em;
+}
+
+article {
+    padding: 3em 15%;
+}
+
+article#item2 {
+    padding-top: 1em;
+    background-color: var(--clair);
+    padding-bottom: 2em;
+}
+
+article#item3 {
+    padding-top: 1em;
+    background-color: #00a2ff39;
+    padding-bottom: 2em;
+}
+
+h2 {
+    color: var(--anthr);
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+h2::before {
+    content: var(--cont);
+}
+
+hr {
+    margin-bottom: 3em;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+
+h4 {
+    display: flex;
+    column-gap: 0.4em;
+    font-size: 1.3em;
+    margin: 0;
+    height: max-content;
+    color: var(--anthr);
+}
+
+
+/* FORMULAIRES */
+
+button.submit {
+    background-color: var(--anthr);
+    border-radius: 5em;
+    border-style: none;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto, sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    padding: 0.6em 1.2em;
+}
+
+button.submit:hover { /* bouton rechercher */
+    background-color: var(--bleu);
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5em;
+}
+
+input {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    justify-content: space-around;
+    height: 1.5em;
+    margin-top: 0.5em;
+    max-width: fit-content;
+}
+
+
+/* ITEM DE LISTE */
+
+details {
+    transition: height 1s ease;
+}
+
+.item, .calendar {
+    background-color: white;
+    box-shadow: 0 0 2em 0 #e8e8e8;
+    border-radius: 2em;
+    min-height: 20em;
+    padding: 2.5em;
+}
+
+
+@media screen and (max-width: 60em) {
+    /* SECTION */
+    article {
+        margin: 0;
+        padding: 2em 3em;
+    }
+
+    h2 {
+        font-size: 5em;
+    }
+
+    h3 {
+        font-size: 3em;
+    }
+
+    h3 .material-symbols-outlined {
+        font-size: 1em;
+    }
+
+    h4 {
+        margin-top: 0.5em;
+        font-size: 3em;
+    }
+
+    h4 .material-symbols-outlined {
+        font-size: 1em;
+    }
+
+    article p {
+        font-size: 2em;
+    }
+}
